@@ -4,10 +4,7 @@
 </h1>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/.github/workflows/main.yml" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
-
-<img src="https://raw.githubusercontent.com/IsmailElkarmani/IsmailElkarmani/output/snake.svg" alt="Snake animation" />
